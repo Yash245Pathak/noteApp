@@ -1,0 +1,11 @@
+.footer{
+  background-color: darkblue;
+  color: white;
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer>span{
+  font-size: x-large;
+}
